@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 500px;
+  margin: auto;
+  padding: 10px;
+  background-color: #f9f9f9;
+}
+
+h1, h2 { text-align: center; }
+
+section {
+  margin-bottom: 20px;
+  padding: 10px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+button {
+  padding: 5px 10px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+ul { list-style-type: none; padding-left: 0; }
+
+li { padding: 5px 0; cursor: pointer; }
